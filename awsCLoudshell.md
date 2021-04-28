@@ -1,0 +1,1 @@
+Command Line interface in the browser built in. It's an alternative to using the CLI and all the commands can be used in the built in cloudshell. 
