@@ -39,3 +39,24 @@ EC2 is a virtual server
 may want to perform an action on aws so you need to give permissions to the IAM role that uses the ec2 to access AWS 
 
 
+IAM Security tools
+--------------------
+IAM credential report 
+report of users and credentials 
+
+IAM access advisor
+SHows credentials to a user and when they were last used. 
+
+
+IAM guiedlines and best practices 
+---------------------------------
+Dont use root account 
+one user = one physical person 
+strong password and mfa
+use groups for high level permissions 
+use roles for giving permissions to services 
+use access keys for programmtic acess
+audit permissions 
+never share keys or passwords 
+
+

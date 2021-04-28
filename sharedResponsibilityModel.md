@@ -10,4 +10,5 @@ users groups roles policies management and monitoring
 mfa on accounts
 rotating keys
 using IAM for permissions 
-analyzing and auditing permissions  
+analyzing and auditing permissions 
+
